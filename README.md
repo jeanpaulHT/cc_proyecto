@@ -7,4 +7,4 @@ Considerar, además, que la posición de un punto está determinada por la **lat
 ## Estructura
 Un R-Tree es un árbol indexado que permite agrupar a los elementos según su proximidad. Para ello, divide el espacio creando regiones (*Bounding Boxes* y para esta implementación en concreto: *Bounding Rectangles*), de forma que la repetición de elementos en estas sea mínima.
 
-![Estructura del R-Tree](https://github.com/ecordovaa/cc_proyecto/blob/main/src/Rtree.png){width='5px'}
+![Estructura del R-Tree](https://github.com/ecordovaa/cc_proyecto/blob/main/src/Rtree.png | width=100)
