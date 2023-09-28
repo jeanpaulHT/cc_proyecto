@@ -1,5 +1,5 @@
 ## Datos 
-Los datos proporcionados representan informacion relevante a los viajes en el servicio de Taxis de la ciudad de Nueva York durante el año 2015, recaudados por la compañia *NYC Taxi and Limousine Commission* (https://drive.google.com/file/d/1NK96l1cQvVUjpmaAqmEpHPZ4dtgaZjRT/view).   
+Los datos proporcionados representan informacion relevante a los viajes en el servicio de Taxis de la ciudad de Nueva York en los últimos años, recaudados por la compañia *NYC Taxi and Limousine Commission* (https://drive.google.com/file/d/1NK96l1cQvVUjpmaAqmEpHPZ4dtgaZjRT/view).   
 ## Próposito
 Se implemento un R-Tree para soportar la siguiente consulta:  
 * Dada la posición de dos puntos P1 y P2 que representan una región rectangular, retornar los viajes que comenzaron en tal región.
