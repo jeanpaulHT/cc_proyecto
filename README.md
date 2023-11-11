@@ -1,3 +1,9 @@
+## Videos entregable
+
+P1: 
+P2: [Link](https://drive.google.com/file/d/1XldyDyASrtgk0fc0-sRAC1eY5k83pe_Y/view?usp=sharing)
+P3
+
 ## Datos 
 Los datos proporcionados representan informacion relevante a los viajes en el servicio de Taxis de la ciudad de Nueva York en los últimos años, recaudados por la compañia *NYC Taxi and Limousine Commission* (https://drive.google.com/file/d/1NK96l1cQvVUjpmaAqmEpHPZ4dtgaZjRT/view).   
 ## Próposito
